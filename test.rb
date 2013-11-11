@@ -1,2 +1,2 @@
-puts "a"
-puts "b"
+puts "A"
+puts "B"
